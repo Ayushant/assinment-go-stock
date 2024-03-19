@@ -3,10 +3,10 @@ Go India Stocks - NextJS Frontend
 </h1>
 
 <p align="center">
-  Frontend built by <a href="https://vatsalsinghkv.vercel.app" target="_blank">Vatsal Singh</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a> as a Selection Assignment
+  Frontend built by <a href="https://assinment-go-stock.vercel.app/" target="_blank">Vatsal Singh</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a> as a Selection Assignment
 </p>
 
-[![Preview](https://github-production-user-asset-6210df.s3.amazonaws.com/68834718/250514202-30f61616-4cea-4d19-b4d0-a7796b103439.png)](https://go-india-stocks-kv.vercel.app/)
+
 
 ## Built With
 
@@ -48,11 +48,10 @@ Go India Stocks - NextJS Frontend
 
 ## Contact
 
-- Website - [vatsalsinghkv.vercel.app](https://vatsalsinghkv.vercel.app)
-- Github - [@vatsalsinghkv](https://github.com/vatsalsinghkv)
-- LinkedIn - [@vatsalsinghkv](https://www.linkedin.com/in/vatsalsinghkv/)
-- Twitter - [@vatsalsinghkv](https://www.twitter.com/vatsalsinghkv)
-- Instagram - [@vatsalsinghkv](https://www.instagram.com/vatsalsinghkv)
-- Facebook - [@vatsalsinghkv](https://www.facebook.com/vatsal.singh.kv)
-- devChallenges - [@vatsalsinghkv](https://devchallenges.io/portfolio/vatsalsinghkv)
-- Frontend Mentor - [@vatsalsinghkv](https://www.frontendmentor.io/profile/vatsalsinghkv)
+- Github - [@Ayushant](https://github.com/Ayushant)
+- LinkedIn - [@Ayushant](https://www.linkedin.com/in/ayushant-khandekar)
+
+
+
+
+
