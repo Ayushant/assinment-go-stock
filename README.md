@@ -3,7 +3,8 @@ Go India Stocks - NextJS Frontend
 </h1>
 
 <p align="center">
-  Frontend built by <a href="https://assinment-go-stock.vercel.app/" target="_blank">Vatsal Singh</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a> as a Selection Assignment
+  Frontend built by <a href="https://assinment-go-stock.vercel.app/" target="_blank">Ayushant</a> 
+<!--   built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a> as a Selection Assignment -->
 </p>
 
 
